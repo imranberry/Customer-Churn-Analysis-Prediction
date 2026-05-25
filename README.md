@@ -1,10 +1,10 @@
-# 📊 Codar Data Science Program — Complete Course Notebook
+# 📊 Data Science Program — Complete Course Notebook
 
 > **End-to-end data science curriculum taught through a single real-world dataset**
 
-## 🎯 About This Repository
+##  About This Repository
 
-This repository contains the **complete hands-on notebook** for the **Codar 12-Week Data Science Program** — a structured, practical course that takes absolute beginners from Python fundamentals all the way to a deployed machine learning model.
+This repository contains the **complete hands-on notebook** for the ** 12-Week Data Science Program** — a structured, practical course that takes absolute beginners from Python fundamentals all the way to a deployed machine learning model.
 
 Every module of the course is demonstrated using a **single real-world dataset**: the Telco Customer Churn dataset (7,043 customers · 21 features). Rather than teaching concepts in isolation, this notebook shows how each tool and technique connects to the next — exactly how data science works in industry.
 
@@ -13,8 +13,8 @@ Every module of the course is demonstrated using a **single real-world dataset**
 ## 📁 Repository Contents
 
 ```
-📦 codar-ds-churn-notebook
- ┣ 📓 Codar_DS_Course_Churn_Notebook.ipynb   ← Main course notebook (82 cells)
+📦 ds-churn-notebook
+ ┣ 📓 DS_Course_Churn_Notebook.ipynb   ← Main course notebook (82 cells)
  ┣ 📊 DOC-20251224-WA0003_.xlsx              ← Telco Customer Churn dataset
  ┣ 📄 README.md                              ← You are here
  ┗ 📄 requirements.txt                       ← All dependencies
@@ -99,7 +99,7 @@ jupyter notebook
 ```
 
 ### 4. Open the notebook
-Click on `Codar_DS_Course_Churn_Notebook.ipynb` and run all cells from top to bottom.
+Click on `DS_Course_Churn_Notebook.ipynb` and run all cells from top to bottom.
 
 > ⚠️ **Important:** Make sure the Excel file (`DOC-20251224-WA0003_.xlsx`) is in the **same folder** as the notebook before running. The first Pandas cell loads it directly.
 
@@ -165,7 +165,7 @@ Based on the analysis in this notebook, the following interventions are recommen
 
 ## 🎓 About the Course
 
-This notebook was built as part of the **Codar 12-Week Data Science Program** — a structured training program covering:
+This notebook was built as part of the **12-Week Data Science Program** — a structured training program covering:
 
 - Python programming from scratch
 - Data wrangling with NumPy and Pandas
@@ -177,8 +177,8 @@ This notebook was built as part of the **Codar 12-Week Data Science Program** �
 - Business intelligence with Power BI
 - End-to-end project deployment with Flask
 
-**Instructor:** Codar Data Science  
-**Program:** 12 Weeks · 24 Sessions · 1.5 Hours per Session
+**Instructor:** Malik Imran  
+**Program:** 12 Weeks · 24 Sessions ·
 
 ---
 
@@ -191,7 +191,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## ⭐ If this notebook helped you
 
 Give the repo a star ⭐ and share it with someone learning data science.  
-Connect on LinkedIn and tag **Codar** when you share your progress!
+Connect on LinkedIn and tag **Malik Imran** when you share your progress!
 
 ---
 
